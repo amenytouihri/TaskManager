@@ -1,3 +1,2 @@
-# Task_Manager_java
-This software helps students organise themselves .
-Test
+# Task Manager
+This is a student project that aims to help students with their tasks management.
